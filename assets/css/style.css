@@ -336,6 +336,7 @@ color: #757575;
     text-decoration: none;
     display: inline-block;
     border: none;
+    cursor: pointer;
 }
 
 .place-buy-btn:hover
