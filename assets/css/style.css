@@ -151,7 +151,7 @@ background-color: #806000;
 
 #header .search-btn:hover
 {
-    background-color: #fb6445;
+    background-color: #806000;
 }
 #header .search-icon {
     color :#fff;
@@ -162,7 +162,7 @@ background-color: #806000;
     position: relative;
     margin-top:48px;
     padding-top: 50%;
-    background: url('/assets/img/sliders/slider4.jpg') top center/ cover no-repeat;
+    background: url('/assets/img/sliders/slider1.jpg') top center/ cover no-repeat;
     
 
 }
@@ -171,23 +171,14 @@ background-color: #806000;
 #slider .text-content {
     position: absolute;
     bottom: 47px;
-    color: #fff;
+    color: #000;
     /* width: 100%;*/
      left: 50%;
     transform: translateX(-50%); 
     text-align: center;
 }
 
-#slider .text-heading {
-    font-weight: 500;
-    font-size:24px;
-}
 
-#slider .text-description
-{
-    font-size:15px;
-    margin-top:25px;
-}
 #content {
  
  
@@ -268,7 +259,7 @@ background-color: #806000;
     font-size: 15px;
     padding: 11px 16px;
     border-bottom: 1px solid #ddd;
-    color: #757575;
+    color: #000;
 }
 .tikects-list .sold-out
 {
